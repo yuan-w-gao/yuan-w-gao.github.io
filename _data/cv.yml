@@ -1,7 +1,7 @@
 cv:
   name: Yuan Gao
   label: PhD Candidate @ University of Cambridge
-  email: gy386 at cl dot cam dot ac dot uk
+  email: yg386 at cl dot cam dot ac dot uk
   location: Cambridge, UK
   image: ""
 #  summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
@@ -56,25 +56,16 @@ cv:
         highlights:
           - Minor in Math
 
-    Experience:
+    Research Experience:
       - company: University of Cambridge
         position: Research Assistant
         location: Computer Science
         start_date: 2022
         end_date: 2023
         summary: Built an RLHF-style pipeline for content generation, combining prompting and evaluation for knowledge-grounded outputs. Enabled rapid iteration for an adaptive learning prototype.
-#        highlights:
-#          - Relativity
-#          - Description 2.
-
-      - company: Salesforce
-        position: Software Engineer Intern
-        location: San Francisco, CA
-        start_date: 2021
-        end_date: 2021
-        highlights:
-          - Implemented new SAQL/SQL capabilities for Tableau / Salesforce Analytics Cloud across parser -> compiler -> optimizer -> distributed execution.
-          - Shipped customer-facing math functions and distributed query support to unblock analytics use cases.
+    #        highlights:
+    #          - Relativity
+    #          - Description 2.
 
       - company: Carnegie Mellon University
         position: Research Assistant, DialRC Lab
@@ -84,16 +75,6 @@ cv:
         highlights:
           - Trained seq2seq/transformer user simulators and fine-tuned DialoGPT-style dialogue models; generated interaction data for RL-based training and evaluation.
           - Enabled scalable offline experiments for dialogue policy learning and metric-driven evaluation.
-
-      - company: Salesforce
-        position: Software Engineer Intern
-        location: San Francisco, CA
-        start_date: 2021
-        end_date: 2021
-        highlights:
-          - Developed an ML-based runtime estimator for Einstein Discovery and integrated it end-to-end across backend + frontend (Python/Java/JavaScript).
-          - Improved training-time predictability and production readiness via model comparison, tuning, and deployment-focused validation.
-
       - company: Carnegie Mellon University
         position: Research Assistant, Xu Lab
         location: Pittsburgh, PA
@@ -102,6 +83,25 @@ cv:
         highlights:
           - Simulated cryo-electron tomograms and evaluated Difference of Gaussian (DoG) particle-picking parameters; contributed modules to AITom (open-source tomography toolkit).
           - Improved reproducibility of experimental pipelines and accelerated parameter exploration for downstream analysis.
+
+    Experience:
+      - company: Salesforce
+        position: Software Engineer Intern
+        location: San Francisco, CA
+        start_date: 2021
+        end_date: 2021
+        highlights:
+          - Implemented new SAQL/SQL capabilities for Tableau / Salesforce Analytics Cloud across parser -> compiler -> optimizer -> distributed execution.
+          - Shipped customer-facing math functions and distributed query support to unblock analytics use cases.
+          -
+      - company: Salesforce
+        position: Software Engineer Intern
+        location: San Francisco, CA
+        start_date: 2021
+        end_date: 2021
+        highlights:
+          - Developed an ML-based runtime estimator for Einstein Discovery and integrated it end-to-end across backend + frontend (Python/Java/JavaScript).
+          - Improved training-time predictability and production readiness via model comparison, tuning, and deployment-focused validation.
 
       - company: Mastercard
         position: Software Engineer Intern
