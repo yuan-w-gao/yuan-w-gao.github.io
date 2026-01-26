@@ -493,11 +493,18 @@ ninja.data = [{
           window.open("mailto:%79%67%33%38%36 %61%74 %63%6C %64%6F%74 %63%61%6D %64%6F%74 %61%63 %64%6F%74 %75%6B", "_blank");
         },
       },{
-        id: 'social-custom_social',
-        title: 'Custom_social',
+        id: 'social-scholar',
+        title: 'Google Scholar',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.alberteinstein.com/", "_blank");
+          window.open("https://scholar.google.com/citations?user=Vud-gdoAAAAJ", "_blank");
+        },
+      },{
+        id: 'social-linkedin',
+        title: 'LinkedIn',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.linkedin.com/in/yuan-w-gao", "_blank");
         },
       },{
       id: 'light-theme',
