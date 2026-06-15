@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-06-12'
+  last_updated: '2026-06-15'
 papers:
   Vud-gdoAAAAJ:2osOgNQ5qMEC:
     citations: 0
     title: 'EtymoLink: A Structured English Etymology Dataset'
     year: '2024'
   Vud-gdoAAAAJ:9yKSN-GCB0IC:
-    citations: 14
+    citations: 15
     title: A unified framework for packing deformable and non-deformable subcellular structures in crowded cryo-electron tomogram simulation
     year: '2020'
   Vud-gdoAAAAJ:d1gkVwhDpl0C:
@@ -18,6 +18,6 @@ papers:
     title: A Computational Simulation of Language Production in First Language Acquisition
     year: '2025'
   Vud-gdoAAAAJ:u5HHmVD_uO8C:
-    citations: 150
+    citations: 151
     title: On the application of large language models for language teaching and assessment technology
     year: '2023'
