@@ -1,23 +1,27 @@
 metadata:
-  last_updated: '2026-07-20'
+  last_updated: '2026-08-19'
 papers:
   Vud-gdoAAAAJ:2osOgNQ5qMEC:
     citations: 1
     title: 'EtymoLink: A Structured English Etymology Dataset'
     year: '2024'
   Vud-gdoAAAAJ:9yKSN-GCB0IC:
-    citations: 15
+    citations: 16
     title: A unified framework for packing deformable and non-deformable subcellular structures in crowded cryo-electron tomogram simulation
     year: '2020'
   Vud-gdoAAAAJ:d1gkVwhDpl0C:
     citations: 2
     title: 'BLiSS: Evaluating Bilingual Learner Competence in Second Language Small Language Models'
     year: '2025'
-  Vud-gdoAAAAJ:u-x6o8ySG0sC:
+  Vud-gdoAAAAJ:qjMakFHDy7sC:
     citations: 0
+    title: Inducing an Incremental Grammar for Production in First Language Acquisition
+    year: '2026'
+  Vud-gdoAAAAJ:u-x6o8ySG0sC:
+    citations: 1
     title: A Computational Simulation of Language Production in First Language Acquisition
     year: '2025'
   Vud-gdoAAAAJ:u5HHmVD_uO8C:
-    citations: 155
+    citations: 157
     title: On the application of large language models for language teaching and assessment technology
     year: '2023'
